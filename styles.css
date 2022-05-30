@@ -1,0 +1,23 @@
+.recipes, .title {
+    font-family: "Verdana", "Times New Roman", sans-serif;
+}
+
+.recipes {
+    font-size: 22px;
+}
+
+.title {
+    color: orange;
+    background-color: black;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.optional {
+    color:red;
+}
